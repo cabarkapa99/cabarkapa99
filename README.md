@@ -57,7 +57,7 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Web Developer** and 
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/cabarkapa99/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/cabarkapa/)
 - 🌐 [Portfolio](https://cabarkapa99.github.io/)
 - 📧 Email: dimitrije@uwit.rs
 
