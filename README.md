@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Dimi!
+# Hi there 👋 I'm Dimitrije Cabarkapa!
 
 Welcome to my GitHub profile! I'm a passionate **Full Stack Web Developer** and a dedicated **Mathematics Student** who loves solving complex problems and building amazing web applications.
 
